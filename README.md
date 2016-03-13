@@ -1,0 +1,2 @@
+# structrue
+base data structure
